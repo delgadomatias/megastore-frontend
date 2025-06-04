@@ -3,7 +3,7 @@
 
 
 <p align="center">
-Megastore is a frontend application for an academic e-commerce project built with React and Vite  
+Megastore is a frontend application for an academic e-commerce project built with React and Vite.
 It simulates a complete online store experience for both users and administrators.</p>
 
 ### For Users:
