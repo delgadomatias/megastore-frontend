@@ -1,4 +1,4 @@
-# Megastore Frontend
+# megastore-frontend
 ![91shots_so](https://github.com/user-attachments/assets/0a149f59-ab6c-40fe-9743-2bf555dccee1)
 
 
